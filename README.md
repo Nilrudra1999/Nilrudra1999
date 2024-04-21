@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nilrudra Mukhopadhyay
 - 👀 At the moment I'm interested in Embedded systems and IoT
+- 🎨 I'm also passionate about visual arts like ink sketching and painting
 - 🌱 I'm learning C/C++, Oracle SQL developer, JavaScript, and HTML/CSS
 - 🎓 I’m currently Enrolled at Seneca Polytechnic
 - 📜 As a second year Computer Programming and Analysis Student
