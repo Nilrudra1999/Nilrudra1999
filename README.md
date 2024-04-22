@@ -10,7 +10,7 @@
        📜 Taking Computer Programming and Analysis<br>
        👀 I'm fascinated with Embedded systems and IoT<br>
        ⚡ Fun Facts, I also have a background in Architectural Technology<br>
-       🏙️ Along with nearly 2+ years of working experience in the industry
+       🏙️ Along with nearly 2+ years of working experience in that industry
     </p>
 </div>
 <h2 align="left">Languages and Tools</h2>
