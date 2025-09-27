@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nilrudra Mukhopadhyay
-### Undergraduate of Computer Programming and Analysis from Seneca Polytechnic
+### Undergraduate Student of Computer Programming and Analysis (OCAD) at Seneca Polytechnic
 
-I work on Machine Learning and AI research independently, trying to understand how Statistics and Machine Learning play a role in providing business insights. Utilizing NLP, ML-driven analytics, data-pipelining, and data visualization.
+I conduct independent research in Machine Learning and Artificial Intelligence, focusing on the intersection of statistics and ML to extract meaningful business insights. My work involves Natural Language Processing (NLP), ML-driven analytics, data pipelining, and data visualization.
 
 <div align="left">
         <p align="left">
