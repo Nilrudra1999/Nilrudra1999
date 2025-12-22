@@ -7,8 +7,8 @@
         President’s Honors List (Fall 2024 - Summer 2025)
 </p>
 
-As a hobby, I also work on mixed-media art and digital art using Krita as my main software.</br>
-2D CAD drawings and PLC automation concept projects, using a combination of softwares like LibreCAD, Fusion360, and OnShape.
+As a hobby, I also work on mixed-media and digital artworks using Krita.</br>
+As well as, PLC automation concept projects, using a combination of softwares like LibreCAD, Fusion360, and OnShape.
 
 <div align="left">
         <p align="left">
