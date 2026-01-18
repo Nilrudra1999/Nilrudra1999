@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nilrudra Mukhopadhyay
 
-I work on small scaled end-to-end data analytics projects, focusing primarily on Diagnostic and Predictive Analysis. As a hobby, I also work on mixed-media and digital artworks using Krita.
+I work on pocket-sized data analytics projects, focusing primarily on Diagnostic and Predictive Analysis. As a hobby, I also work on mixed-media and digital artworks using Krita.
 
 <p>
         <b>Education:</b></br> 
