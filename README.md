@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Nilrudra Mukhopadhyay
 
-I work on pocket-sized data analytics projects, focusing primarily on Diagnostic and Predictive Analysis. As a hobby, I also work on mixed-media and digital artworks using Krita.
+I work on end-to-end data analytics and machine learning projects, primarily focused on leveraging ML algorithms to provide Predictive Analysis. Most of my projects incorporate the following features:
+- ETL/ELT pipelines
+- Data Lakes or warehouses
+- Python automation
+- Data visualization
+- Web scraping
+- ML model based forecasting
 
 <p>
         <b>Education:</b></br> 
