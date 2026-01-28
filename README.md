@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nilrudra Mukhopadhyay
 
-I work on end-to-end data analytics and machine learning projects, primarily focused on leveraging ML algorithms to provide Predictive Analysis. Most of my projects incorporate the following features:
+I work on end-to-end data analytics and machine learning projects, focused on leveraging ML algorithms for Predictive Analysis. Most of my projects incorporate the following features:
 - ETL/ELT pipelines
 - Data Lakes or warehouses
 - Python automation
