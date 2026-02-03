@@ -1,8 +1,8 @@
 ## Hey there!👋
 
-I'm [Nilrudra](https://www.linkedin.com/in/nmukhopadhyay/), a data analyst based in Canada.
+I'm [Nilrudra](https://www.linkedin.com/in/nmukhopadhyay/), a Seneca Polytechnic Graduate in Computer Programming and Analysis.
 
-I arrange end-to-end Diagnostic and Predictive analytics projects on a wide range of different industries.
+I specialize in implementing end-to-end data analytics projects on a wide range of different industries.
 
 My projects usually incorporate some or all of the following features:
 - ETL or ELT pipelines
