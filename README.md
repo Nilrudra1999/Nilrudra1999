@@ -1,31 +1,19 @@
-# 👋 Hi, I'm Nilrudra Mukhopadhyay
+## Hey there!👋
 
-I work on end-to-end data analytics and machine learning projects, focused on leveraging ML algorithms for Predictive Analysis. Most of my projects incorporate the following features:
+I'm [Nilrudra](https://www.linkedin.com/in/nmukhopadhyay/), a data analyst based in Canada.
+
+I explore financial trends to find correlations between products and consumer preferences.
+
+My projects usually incorporate the following features:
 - ETL/ELT pipelines
 - Data Lakes or warehouses
+- ML model based prediction analytics
 - Python automation
 - Data visualization
-- Web scraping
-- ML model based forecasting
-
-<p>
-        <b>Education:</b></br> 
-        Computer Programming and Analysis (OCAD) from Seneca Polytechnic</br></br>
-        <b>Honors:</b></br> 
-        President’s Honors List (Fall 2024 - Summer 2025)
-</p>
-
-<p align="left">
-        <a href="mailto:nilrudram@gmail.com" target="_blank">
-                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-</p>
 
 ---
 
-## 💻 Languages and Tools
-
-These are just a few of the many languages, libraries, and tools I use to work on my projects.
+### 💻 Languages and Tools
 
 | Category        | Technologies                                        |
 |-----------------|-----------------------------------------------------|
