@@ -2,18 +2,18 @@
 
 I'm [Nilrudra](https://www.linkedin.com/in/nmukhopadhyay/), a data analyst based in Canada.
 
-I explore financial trends to find correlations between products and consumer preferences.
+I arrange end-to-end Diagnostic and Predictive analytics projects on a wide range of different industries.
 
-My projects usually incorporate the following features:
-- ETL/ELT pipelines
+My projects usually incorporate some or all of the following features:
+- ETL or ELT pipelines
 - Data Lakes or warehouses
-- ML model based prediction analytics
+- ML model based forecasting
 - Python automation
 - Data visualization
 
 ---
 
-### 💻 Languages and Tools
+### 💻 My Most Used Tools and Languages
 
 | Category        | Technologies                                        |
 |-----------------|-----------------------------------------------------|
