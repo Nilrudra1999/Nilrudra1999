@@ -2,9 +2,10 @@
 
 I'm [Nilrudra](https://www.linkedin.com/in/nmukhopadhyay/), a Seneca Polytechnic Graduate in Computer Programming and Analysis.
 
-I enjoy working on Machine Learning powered technologies like Computer Vision, Natural Language Processing, Anomaly Detection and Predictive Analytics.
+I enjoy working on Machine Learning powered technologies like Computer Vision, Natural Language Processing, and Predictive Analytics.
+As well as Automation technologies like PLC programming, and CAD/CAM with G-Code.
 
-My projects have incorporated some or all of the following features:
+My current projects have incorporated some or all of the following features:
 
 - ETL or ELT pipelines
 - Data Lakes or warehouses
