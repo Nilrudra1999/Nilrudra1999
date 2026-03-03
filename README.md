@@ -2,17 +2,15 @@
 
 I'm [Nilrudra](https://www.linkedin.com/in/nmukhopadhyay/), a Seneca Polytechnic Graduate in Computer Programming and Analysis.
 
-I enjoy working on Machine Learning powered technologies like Computer Vision, Natural Language Processing, and Predictive Analytics.
-As well as implementing trained models into production-ready applications/full-stack systems.
+I enjoy developing production ready Machine Learning models, finding random trends using unsupervised learning, and building automated data infrastructure with integrated ETL pipelines.
 
 My current projects have incorporated some or all of the following features:
 
+- ML model based forecasting
 - ETL or ELT pipelines
 - Data Lakes or warehouses
-- ML model based forecasting
 - Python automation
 - Data visualization
-- ML backend integration
 
 ---
 
