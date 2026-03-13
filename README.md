@@ -1,8 +1,6 @@
 ## Hey there!👋
 
-I'm Nilrudra, a Seneca Polytechnic Graduate in Computer Programming and Analysis.
-
-I'm Interested in Quantitative finance, specifically building models to try and make predictions about the stock market.
+I'm a Seneca Polytechnic Graduate in Computer Programming and Analysis. I'm interested in Quantitative finance, especially building models to try and make predictions about the stock market.
 
 ---
 
