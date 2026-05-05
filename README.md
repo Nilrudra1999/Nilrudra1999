@@ -1,6 +1,6 @@
 ## Hey there!👋
 
-I'm Nilrudra Mukhopadhyay, a Machine Learning Programmer, and student at The University of Guelph studying Quantitative Economics and Finance. I specialize in building market prediction models with the aim of putting together autonomous asset management systems.
+I'm a Machine Learning Programmer, and student at The University of Guelph studying Quantitative Economics and Finance. I specialize in building market prediction models with the aim of putting together autonomous asset management systems.
 
 ### 📚 Education
 
