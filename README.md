@@ -1,20 +1,22 @@
-## Hey there!👋
+<p align="center">
+  <img width="900" height="400" alt="banner" src="https://github.com/user-attachments/assets/3bbfecc8-b4eb-442e-8a5d-23a2c984ecbc" />
+</p>
 
-I'm a Machine Learning Programmer, and student at The University of Guelph studying Quantitative Economics and Finance. I specialize in building market prediction models with the aim of putting together autonomous asset management systems.
+### Student at The University of Guelph studying Quantitative Economics and Finance.
+- Data Infrastructure
+- Machine Learning model building
+- Machine Learning cloud integration
+- Financial modeling
 
-### 📚 Education
-
-- B.A.H. Quantitative Economics and Finance<br>University of Guelph
-- O.C.A.D Computer Programming and Analysis<br>Seneca Polytechnic
 ---
 
-### 💻 My Most Used Tools and Languages
+### 🛠️ My Most Used Tools and Languages 🛠️
 
 | Category         |                                                             |
 |------------------|-------------------------------------------------------------|
-| **Languages**    | Python, Java, C++, SQL, Bash                                |
-| **Libraries**    | Scikit-learn, Numpy, Pandas, Seaborn, MatPlotLib, JavaFX    |
-| **IDEs & Tools** | VScode, PyCharm, SSMS, Git Bash, Jupyter Notebooks, Copilot |
+| **Languages**    | Python, C++, SQL, Bash                                      |
+| **Libraries**    | Scikit-learn, Numpy, Pandas, Seaborn, MatPlotLib, TKinter   |
+| **IDEs & Tools** | VScode, SSMS, Git Bash, Jupyter Notebooks, Copilot          |
 
 <!---
 Nilrudra1999/Nilrudra1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on GitHub profile.
