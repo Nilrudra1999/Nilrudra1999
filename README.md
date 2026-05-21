@@ -9,11 +9,13 @@
 - Financial modeling
 
 ---
-<img 
-  align="left" width="250" height="150" 
-  alt="heading" src="https://github.com/user-attachments/assets/880a9309-6a2d-4121-8206-2d3fadaab80c" 
-  style="margin-right: 20px; margin-bottom: 20px;" 
-/>
+<picture>
+  <img 
+    align="left" width="250" height="150" 
+    alt="heading" src="https://github.com/user-attachments/assets/880a9309-6a2d-4121-8206-2d3fadaab80c" 
+    style="margin-right: 20px; margin-bottom: 20px;" 
+  />
+</picture>
 
 | Category | |
 |---|---|
